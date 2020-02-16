@@ -20,7 +20,23 @@ Also I started RSSchool in 2019, but end it after 1st stage.
 
 Courses: HTML+CSS on-line courses at [CodeAcademy]( https://www.codecademy.com/users/nelot_by/achievements) and [HTML-academy](https://htmlacademy.ru/profile/id1019185).
 
-## Work Expirience
+## Code examples
+
+function cake(x, y){
+  var summ = 0;
+  for (var i = 0; i < y.split('').length; i++) {
+   if (i % 2 === 0) {
+   summ += y.charCodeAt(i);
+   } else {
+   summ += y.charCodeAt(i) - 96;
+   }
+  }
+  if (summ > 0.7 * x) {return 'Fire!'
+  } else {return 'That was close!'
+  }
+}
+
+## Expirience
 
 **2013-2014:** master of repair and construction work. Ltd. "Trimifingstroy"
 
