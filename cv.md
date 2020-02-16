@@ -41,4 +41,4 @@ Courses: HTML+CSS on-line courses at [CodeAcademy]( https://www.codecademy.com/u
 ## English knowledge
 
 A2. I have studied from school to 2017 year according to the general program. 
-My best expirience in English is 7 years playing WoW. =\
+My best expirience in English is 7 years playing WoW. =
