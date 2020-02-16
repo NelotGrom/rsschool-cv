@@ -22,19 +22,7 @@ Courses: HTML+CSS on-line courses at [CodeAcademy]( https://www.codecademy.com/u
 
 ## Code examples
 
-function cake(x, y){
-  var summ = 0;
-  for (var i = 0; i < y.split('').length; i++) {
-   if (i % 2 === 0) {
-   summ += y.charCodeAt(i);
-   } else {
-   summ += y.charCodeAt(i) - 96;
-   }
-  }
-  if (summ > 0.7 * x) {return 'Fire!'
-  } else {return 'That was close!'
-  }
-}
+[My Codewars](https://www.codewars.com/users/NelotGrom/completed_solutions)
 
 ## Expirience
 
