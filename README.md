@@ -1,2 +1,2 @@
 # rsschool-cv
-Resume
+https://github.com/NelotGrom/rsschool-cv/blob/gh-pages/cv.md
