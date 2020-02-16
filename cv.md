@@ -14,6 +14,7 @@ I worked for 7 years in civil building with many different projects. Now I work 
 I want some changes, so I want to make every effort to master web development.
 I have been studying html and css only two weeks, and already have found a lot of similar to construction.
 It's fascinating so i have to work hard.
+Also I started RSSchool in 2019, but end it after 1st stage.
 
 ## Skills
 
