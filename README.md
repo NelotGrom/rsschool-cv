@@ -1,2 +1,2 @@
 # rsschool-cv
-My CV
+https://NelotGrom.github.io/rsschool-cv/
