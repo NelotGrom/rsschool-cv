@@ -2,7 +2,7 @@
 
 ### Phone: +375 29 178 28 94, +48 573 836 812
 
-### Email: NelotGrom@gmail.com
+### Email: nelotgrom@gmail.com
 
 ### Skype: vivek_by
 
